@@ -1,0 +1,11 @@
+name: oslab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nodejs=20
+  - npm
+  - python=3.11
+  - pip
+  - pip:
+      - pre-commit==4.2.0
