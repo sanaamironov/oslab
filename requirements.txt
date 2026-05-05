@@ -1,0 +1,3 @@
+# Optional Python tooling for the OSLab repository.
+# Core app/runtime is Node.js + TypeScript; install JS deps via npm.
+pre-commit==4.2.0
